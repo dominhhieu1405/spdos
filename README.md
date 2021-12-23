@@ -6,7 +6,7 @@
   <img src="https://raw.githubusercontent.com/dominhhieu1405/spdos/main/img/logo.png">
 </p>
 
-# :computer: Janela Principal
+# :computer: Hình Ảnh
 <p align="center">
   <img src="https://raw.githubusercontent.com/tanjilk/overload/main/img/imgshow.png">
 </p>
@@ -33,7 +33,7 @@
   * `cd spdos/`
   * `pip3 install -r requirements.txt`
 
-# ❓ Como Usar
+# ❓ Sử dụng
 ```python3 overload.py --time XXX --threads XXX --target [URL] --method HTTP```
 
 <p align="center">
