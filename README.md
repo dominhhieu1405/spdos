@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/7zx/overload/main/img/logo.png">
+  <img src="https://raw.githubusercontent.com/dominhhieu1405/spdos/main/img/logo.png">
 </p>
 
 # :computer: Janela Principal
@@ -11,26 +11,26 @@
   <img src="https://raw.githubusercontent.com/tanjilk/overload/main/img/imgshow.png">
 </p>
 
-# 🌙 Instalação
+# 🌙 Cài đặt
 * Windows:
-  * Instala Python 3.8 [aqui](https://www.python.org/downloads/release/python-38)
-  * Abre o installer e clica em: `add python to PATH`
-  * Faz download do overload
-  * Abre o cmd ou o PowerShell no diretório overload
-  * Execute este comando: `pip install -r requirements.txt`
+  * Cài đặt Python 3.8 [Tải về](https://www.python.org/downloads/release/python-38)
+  * Mở trình cài đặt và chọn: `add python to PATH`
+  * Tải xuống và giải nén spdos
+  * Mở thư mục bằng Powershell
+  * Chạy lệnh: `pip install -r requirements.txt`
 
 * Linux:
   * `sudo apt update`
   * `sudo apt install python3 python3-pip git -y`
-  * `git clone https://github.com/7zx/overload`
-  * `cd overload/`
+  * `git clone https://github.com/dominhhieu1405/spdos`
+  * `cd cpdos/`
   * `pip3 install -r requirements.txt`
 
 * Termux:
   * `pkg update`
   * `pkg install python3 python3-pip git -y`
-  * `git clone https://github.com/7zx/overload`
-  * `cd overload/`
+  * `git clone https://github.com/dominhhieu1405/spdos`
+  * `cd spdos/`
   * `pip3 install -r requirements.txt`
 
 # ❓ Como Usar
